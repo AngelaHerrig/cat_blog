@@ -17,9 +17,7 @@ background-color: rgba(250, 203, 145, 0.4);
 text-align: center; 
 padding: 10px 20px;#
 }
-.font-header {
-    font-style: ;
-}
+
  
 .main-links {
     float: right;
@@ -31,9 +29,10 @@ background-color: rgb(253, 193, 120, )
 margin-right: 50%;
 }
 
-p {
-    background-color: rgba(250, 203, 145, 0.6)
+p ,ul{
+    background-color: rgba(250, 203, 145, 0.4)
 }
+
 .posts-imgs {
     width: 300px;
     border-radius:
@@ -44,6 +43,7 @@ p {
 
 }
 
-.posts1-imgs{
-    width: 10px; 
+.post1-imgs{
+     
+    height: 300px;
 }
